@@ -97,6 +97,7 @@ endmodule
 ![Screenshot 2024-11-29 142817](https://github.com/user-attachments/assets/c9564c7d-087f-4bec-bdd4-913e0827ef1a)
 
 **Result:** 
+
 It is verify the truth table of logic gates in Quartus II using Verilog programming.
 
 
